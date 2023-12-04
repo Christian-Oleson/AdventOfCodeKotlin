@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.oleson
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, cache-caffeine, gradle, http-client, junit, kapt, kotlin, kotlin-application, kotlin-extension-functions, logback, micronaut-aot, micronaut-build, micronaut-http-validation, mockito, netty-server, openapi, reactor, reactor-http-client, readme, serialization-jackson, shade, yaml, yaml-build]
